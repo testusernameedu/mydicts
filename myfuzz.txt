@@ -1,0 +1,7 @@
+_.htaccess
+__.htaccess
+.htaccess.restore
+ht.access
+.git/index
+docker_dir – вообще посмотреть, что люди кладут в .gitignore
+Id_rsa
