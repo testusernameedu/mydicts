@@ -1,0 +1,11 @@
+corp
+int
+inter
+internal
+intranet
+home
+loc
+local
+localhost
+private
+test
