@@ -1,4 +1,5 @@
 corp
+dev
 int
 inter
 internal
@@ -8,4 +9,6 @@ loc
 local
 localhost
 private
+stage
 test
+uat
