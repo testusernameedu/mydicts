@@ -9,6 +9,7 @@ loc
 local
 localhost
 private
+srv
 stage
 test
 uat
