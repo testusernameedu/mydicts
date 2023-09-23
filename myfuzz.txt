@@ -8,3 +8,4 @@ Id_rsa
 config.properties
 ui_config.properties
 fileadmin
+.well-known/apple-app-site-association
