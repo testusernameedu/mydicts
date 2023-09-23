@@ -7,3 +7,4 @@ docker_dir – вообще посмотреть, что люди кладут �
 Id_rsa
 config.properties
 ui_config.properties
+fileadmin
