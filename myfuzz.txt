@@ -3,7 +3,8 @@ __.htaccess
 .htaccess.restore
 ht.access
 .git/index
-docker_dir – вообще посмотреть, что люди кладут в .gitignore
+docker_dir
+docker-compose.yml
 Id_rsa
 config.properties
 ui_config.properties
