@@ -17,3 +17,6 @@ app-ads.txt
 .well-known/nodeinfo 
 .well-known/openid-configuration
 .well-known/trust.txt
+server-info
+server-status
+server-status?full
