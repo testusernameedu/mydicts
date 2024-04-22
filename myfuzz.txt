@@ -2,6 +2,7 @@ _.htaccess
 __.htaccess
 .htaccess.restore
 ht.access
+.htaccess-downloads
 .git/index
 docker_dir
 docker-compose.yml
