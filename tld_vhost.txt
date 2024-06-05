@@ -13,17 +13,14 @@ srv
 stage
 test
 uat
-%s
 127.0.0.1
 admin
-admin.%s
+admin
 administration
-administration.%s
 ads
 adserver
 alerts
 alpha
-alpha.%s
 ap
 apache
 api
@@ -34,7 +31,6 @@ aptest
 auth
 backup
 beta
-beta.%s
 blog
 cdn
 chat
@@ -51,7 +47,6 @@ dev
 dev.%s
 devel
 development
-development.%s
 devsql
 devtest
 dhcp
@@ -88,13 +83,13 @@ intra
 intranet
 ipv6
 lab
+lan
 ldap
 linux
 local
 localhost
 log
 m
-m.%s
 mail
 mail2
 mail3
@@ -104,7 +99,6 @@ manage
 mgmt
 mirror
 mobile
-mobile.%s
 monitor
 mssql
 mta
@@ -121,7 +115,6 @@ ns2
 ns3
 ntp
 old
-old.%s
 ops
 oracle
 owa
@@ -129,7 +122,6 @@ pbx
 portal
 s3
 secure
-secure.%s
 server
 sharepoint
 shop
@@ -141,10 +133,8 @@ ssh
 ssl
 stage
 staging
-staging.%s
 stats
 status
-status.%s
 svn
 syslog
 test
@@ -152,14 +142,10 @@ test1
 test2
 testing
 uat
-uat.%s
 upload
 v1
-v1.%s
 v2
-v2.%s
 v3
-v3.%s
 vm
 vnc
 voip
@@ -169,7 +155,6 @@ web2test
 whois
 wiki
 www
-www.%s
 www2
 xml
 administrator
