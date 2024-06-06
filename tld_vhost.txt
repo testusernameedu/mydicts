@@ -87,6 +87,7 @@ lan
 ldap
 linux
 local
+localdomain
 localhost
 log
 m
