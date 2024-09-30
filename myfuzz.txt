@@ -25,3 +25,4 @@ check.php
 .bash_history
 .ssh
 .ssh/known_hosts
+home/000~ROOT~000/
