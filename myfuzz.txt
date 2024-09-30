@@ -21,3 +21,7 @@ app-ads.txt
 server-info
 server-status
 server-status?full
+check.php
+.bash_history
+.ssh
+.ssh/known_hosts
