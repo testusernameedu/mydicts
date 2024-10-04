@@ -27,3 +27,4 @@ check.php
 .ssh/known_hosts
 home/000~ROOT~000/
 app/config/config.local.neon
+cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
