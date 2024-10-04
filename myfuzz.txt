@@ -28,3 +28,4 @@ check.php
 home/000~ROOT~000/
 app/config/config.local.neon
 cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
+cgi-bin/reset.cgi?db_prefix=%26id%26
