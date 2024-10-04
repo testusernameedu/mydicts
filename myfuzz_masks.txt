@@ -1,0 +1,1 @@
+cgi-bin/FUZZ.cgi?FUZZ=%26id%26
