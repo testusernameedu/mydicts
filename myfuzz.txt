@@ -26,3 +26,4 @@ check.php
 .ssh
 .ssh/known_hosts
 home/000~ROOT~000/
+app/config/config.local.neon
