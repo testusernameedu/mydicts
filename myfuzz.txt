@@ -31,3 +31,4 @@ cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
 cgi-bin/reset.cgi?db_prefix=%26id%26
 .svn/wc.db
 .git/config
+.DS_Store 
