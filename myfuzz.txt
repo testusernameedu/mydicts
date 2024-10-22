@@ -35,6 +35,17 @@ cgi-bin/reset.cgi?db_prefix=%26id%26
 .DS_Store
 haproxy 
 netdata
+actuator/env
+actuator/auditevents
+actuator/beans
+actuator/caches
+actuator/configprops
+actuator/health
+actuator/heapdump
+actuator/info
+actuator/integrationgraph
+actuator/configprops
+actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/hosts
 __phpMyAdmin/
 _phpmyadmin
 _phpmyadmin/
