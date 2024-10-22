@@ -1,3 +1,4 @@
+api/.env
 _.htaccess
 __.htaccess
 .htaccess.restore
