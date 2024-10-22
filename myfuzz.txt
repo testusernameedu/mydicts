@@ -1,4 +1,5 @@
 api/.env
+.config.inc.php.swp
 _.htaccess
 __.htaccess
 .htaccess.restore
