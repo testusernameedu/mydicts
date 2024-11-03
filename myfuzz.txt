@@ -23,6 +23,10 @@ app-ads.txt
 server-info
 server-status
 server-status?full
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
+configurations.xml
 check.php
 .bash_history
 .ssh
