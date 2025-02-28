@@ -6,6 +6,9 @@ __.htaccess
 ht.access
 .htaccess-downloads
 .git/index
+INSTALL.mysql.txt
+INSTALL.pgsql.txt
+INSTALL.sqlite.txt
 docker_dir
 docker-compose.yml
 Id_rsa
